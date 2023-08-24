@@ -1,4 +1,4 @@
-# This is a react app, in order to run it you shoul run the command: 
+# This is a react app, to run it you should run the command: 
 
 ### `npm start`
 
